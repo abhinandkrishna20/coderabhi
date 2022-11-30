@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.body {
+  background-color: #242429;
+  margin: -10px;  
+}
+nav {
+  background-color: #111111;
+  color: #38b6ff;
+  padding: 20px;
+}
+h3 {
+  color: #ffffff;
+}
+span {
+  color: #88eeea;
+}
+a {
+  text-decoration: none;
+  color: #aaaaff;
+}
+div {
+  color: #38b6ff;
+}
+
